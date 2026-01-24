@@ -1,5 +1,5 @@
 
-# 🐾 냥스크립트 (`NyanScript`)
+# 🐾 냥스크립트 (`NyanScript`) 😿
 
 > **"집사가 코드를 짜면, 고양이가 실행한다냥!"** > **The world's cutest esoteric programming language.**
 
