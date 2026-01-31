@@ -1,15 +1,15 @@
 
 # 🐾 냥스크립트 (`NyanScript`) 😿
 
-> **"집사가 코드를 짜면, 고양이가 실행한다냥!"** > **The world's cutest esoteric programming language.**
+> **"집사가 코드를 짜면, 고양이가 실행한다냥!"** > **`The world's cutest esoteric programming language.`**
 
-냥스크립트(NyanScript)는 고양이의 습성을 모티브로 한 한국어 기반의 난해한 프로그래밍 언어(Esoteric Language)입니다.
+냥스크립트(`NyanScript`)는 고양이의 습성을 모티브로 한 한국어 기반의 난해한 프로그래밍 언어(`Esoteric Language`)입니다.
 
-Python을 기반으로 동작하며, 딱딱한 영어 문법 대신 귀여운 고양이 용어로 코딩할 수 있습니다.
+`Python`을 기반으로 동작하며, 딱딱한 영어 문법 대신 귀여운 고양이 용어로 코딩할 수 있습니다.
 
 <br />
 
-## ✨ 특징 (Features)
+## ✨ 특징 (`Features`)
 
 * **고양이 친화적 문법:** `while` 대신 `꾹꾹이`, `print` 대신 `야옹`을 사용합니다.
 * **파이썬 호환:** `.nyan` 파일을 파이썬 코드로 변환(Transpile)하여 실행하므로, 파이썬의 모든 라이브러리(`import random`, `time` 등)를 사용할 수 있습니다.
@@ -17,7 +17,7 @@ Python을 기반으로 동작하며, 딱딱한 영어 문법 대신 귀여운 �
 
 <br />
 
-## 📦 설치 및 실행 방법 (Installation & Usage)
+## 📦 설치 및 실행 방법 (`Installation & Usage`)
 
 ### 1. 필수 조건
 
@@ -46,11 +46,11 @@ python nyan.py hello.nyan
 
 ---
 
-## 📚 문법 가이드 (Syntax Guide)
+## 📚 문법 가이드 (`Syntax Guide`)
 
 냥스크립트는 **들여쓰기(Indentation)**가 매우 중요합니다. 블록(`{ }`)을 사용할 때 들여쓰기 줄을 잘 맞춰주세요.
 
-| 기능 | 냥스크립트 (Keyword) | 파이썬 (Python) | 설명 |
+| 기능 | 냥스크립트 (`Keyword`) | 파이썬 (`Python`) | 설명 |
 | --- | --- | --- | --- |
 | 시작 | **`기지개 { ... }`** | `if __name__ == "__main__":` | 프로그램의 시작점입니다. |
 | 종료 | **`식빵굽기`** | `pass` | 프로그램의 끝을 알립니다. |
@@ -69,7 +69,7 @@ python nyan.py hello.nyan
 
 ---
 
-## 🐈 코드 예제 (Examples)
+## 🐈 코드 예제 (`Examples`)
 
 ### 1. Hello World (안녕 세상아)
 
@@ -102,7 +102,7 @@ python nyan.py hello.nyan
 
 <br />
 
-## 🛠️ 개발 환경 구조 (File Structure)
+## 🛠️ 개발 환경 구조 (`File Structure`)
 
 ```text
 📂 Project_Nyan
@@ -115,7 +115,7 @@ python nyan.py hello.nyan
 
 <br />
 
-## ⚖️ 라이선스 (License)
+## ⚖️ 라이선스 (`License`)
 
 이 프로젝트는 **Mozilla Public License Version 2.0 (MPL 2.0)** 을 따릅니다.
 
